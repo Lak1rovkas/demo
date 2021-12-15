@@ -1,0 +1,16 @@
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.csproj.AssemblyReference.cache
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.AssemblyInfoInputs.cache
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.AssemblyInfo.cs
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.csproj.CoreCompileInputs.cache
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.exe
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.deps.json
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.runtimeconfig.json
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.runtimeconfig.dev.json
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.dll
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\ref\Number1.dll
+C:\Users\zampir\source\repos\Number1\Number1\bin\Debug\net5.0\Number1.pdb
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.dll
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\ref\Number1.dll
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.pdb
+C:\Users\zampir\source\repos\Number1\Number1\obj\Debug\net5.0\Number1.genruntimeconfig.cache
